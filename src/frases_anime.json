@@ -1,0 +1,723 @@
+[
+    {
+      "id": 1,
+      "frase": "Eres un ser increíble, diste lo mejor de ti y por eso te admiro. Pasaste por varias transformaciones, fuiste tan poderoso que todos nosotros te odiamos.",
+      "personaje": "Son Goku",
+      "anime": "Dragon Ball Z"
+    },
+    {
+      "id": 2,
+      "frase": "No vivas con falsedades ni miedos, porque terminarás odiándote a ti mismo.",
+      "personaje": "Uzumaki Naruto",
+      "anime": "Naruto"
+    },
+    {
+      "id": 3,
+      "frase": "A mí me da igual que los dioses existan o no, yo soy el amo de mi vida; paso de los temas religiosos, pero jamás menospreciaré a alguien que crea en ellos.",
+      "personaje": "Roronoa Zoro",
+      "anime": "One Piece"
+    },
+    {
+      "id": 4,
+      "frase": "¿No es asombroso el cielo? No importa cuántas veces lo mires, nunca es el mismo dos veces. Este cielo de ahora solo existe en este instante.",
+      "personaje": "Hitsugaya Toushiro",
+      "anime": "Bleach"
+    },
+    {
+      "id": 5,
+      "frase": "Levántate y camina hacia adelante, tienes las piernas para hacerlo.",
+      "personaje": "Edward Elric",
+      "anime": "FullMetal Alchemist"
+    },
+    {
+      "id": 6,
+      "frase": "No importa cuán capacitado que estés, tú solo no puedes cambiar el mundo. Pero eso es lo maravilloso del mundo.",
+      "personaje": "L.",
+      "anime": "Death Note"
+    },
+    {
+      "id": 7,
+      "frase": "Había una mujer, fue la primera vez que encontré a alguien que estuviera verdaderamente vivo. Al menos, eso fue lo que pensé. Ella era... la parte de mí que perdí en algún lugar del camino, la parte que faltaba, la que deseaba.",
+      "personaje": "Spike",
+      "anime": "Cowboy Bebop"
+    },
+    {
+      "id": 8,
+      "frase": "La gente tiene diferentes formas de pensar, incluso cuando se comete un error... Si la persona se da cuenta de su error es posible que lo enmiende, si mantienes tu visión clara verás el futuro, es de lo que se trata esta vida…",
+      "personaje": "Vash Estampida",
+      "anime": "Trigun"
+    },
+    {
+      "id": 9,
+      "frase": "Si la felicidad tuviera una forma, tendría forma de cristal, porque puede estar a tu alrededor sin que la notes. Pero si cambias de perspectiva, puede reflejar una luz capaz de iluminarlo todo.",
+      "personaje": "Lelouch",
+      "anime": "Code Geass"
+    },
+    {
+      "id": 10,
+      "frase": "Nadie puede entender perfectamente a otra persona, ya es bastante difícil entenderse a uno mismo, tal vez por eso la vida es tan interesante.",
+      "personaje": "Ryoji Kaji",
+      "anime": "Neon Genesis Evangelion"
+    },
+    {
+      "id": 11,
+      "frase": "Si no tienes recuerdos felices, nunca es tarde para comenzar a construirlos.",
+      "personaje": "Dr. Tenma",
+      "anime": "Monster"
+    },
+    {
+      "id": 12,
+      "frase": "La gente necesita el miedo para poder sobrevivir. Lo experimentamos, y así podemos hacernos más fuertes.",
+      "personaje": "Maka",
+      "anime": "Soul Eater"
+    },
+    {
+      "id": 13,
+      "frase": "El dolor desaparece con el tiempo. Pero no deseo ser curado por el tiempo, porque cuando huyes del dolor, con el anhelo de olvidar, lo único que logras es quedarte atascado. Te vuelves incapaz de seguir adelante.",
+      "personaje": "Ciel Phantomhive",
+      "anime": "Kuroshitsuji"
+    },
+    {
+      "id": 14,
+      "frase": "Escucha bien Simon, y no lo olvides. Cree en ti mismo. No en el mí que cree en ti. Ni en el tú que cree en mí. ¡Cree en el tú... que cree en ti mismo!",
+      "personaje": "Kamina",
+      "anime": "Tengen Toppa Gurren Lagann"
+    },
+    {
+      "id": 15,
+      "frase": "Si no puedes hacer algo no lo hagas, concéntrate en lo que puedas hacer.",
+      "personaje": "Shiroe",
+      "anime": "Log Horizon"
+    },
+    {
+      "id": 16,
+      "frase": "Dicen que la gente puede cambiar, pero... ¿Eso será cierto? Si deciden que quieren volar, ¿les salen alas? No lo creo. No tienes que cambiar tú, sino como haces las cosas. Tienes que crear una manera de volar mientras sigues siendo igual.",
+      "personaje": "Sora",
+      "anime": "No Game no Life"
+    },
+    {
+      "id": 17,
+      "frase": "Las personas continuamente se hieren unas a otras, es comprensible el porque se duda tanto, pero... vivir sin ser capaz de confiar en nadie... es lo mismo que vivir sin sentir el amor de los demás.",
+      "personaje": "Yusuke Yoshino",
+      "anime": "Clannad"
+    },
+    {
+      "id": 18,
+      "frase": "Los humanos no pueden vivir sin recuerdos... Pero tampoco pueden vivir sólo de recuerdos.",
+      "personaje": "Michiru",
+      "anime": "AIR"
+    },
+    {
+      "id": 19,
+      "frase": "En ese momento queríamos crecer para hacer lo que quisiéramos. Pero si lo pienso, jamás volveremos a ser tan libres como entonces.",
+      "personaje": "Anaru",
+      "anime": "Ano Hana"
+    },
+    {
+      "id": 20,
+      "frase": "No se necesitan razones particulares para ayudar a alguien.",
+      "personaje": "Aioria de Leo",
+      "anime": "Saint Seiya"
+    },
+    {
+      "id": 21,
+      "frase": "Es muy fácil herir a los demás sin darse cuenta, sobre todo cuando eres joven.",
+      "personaje": "Genma Saotome",
+      "anime": "Ranma ½"
+    },
+    {
+      "id": 22,
+      "frase": "Suponer lo peor y hacer lo mejor, es el método de un verdadero estratega.",
+      "personaje": "Nijima",
+      "anime": "Kenichi, el discipulo más fuerte"
+    },
+    {
+      "id": 23,
+      "frase": "No mueras por tus amigos, vive por ellos.",
+      "personaje": "Erza Scarlet",
+      "anime": "Fairy Tail"
+    },
+    {
+      "id": 24,
+      "frase": "Puedes morir en cualquier momento, pero vivir requiere de valentía.",
+      "personaje": "Kenshi Himura",
+      "anime": "Rurouni Kenshin"
+    },
+    {
+      "id": 25,
+      "frase": "Las personas miserables necesitan que existan personas más miserables que ellas para sentirse felices.",
+      "personaje": "Lucy",
+      "anime": "Elfen Lied"
+    },
+    {
+      "id": 26,
+      "frase": "Si finges sentirte de algún modo, al final esa sensación se hará parte de ti sin que te des cuenta.",
+      "personaje": "Hei",
+      "anime": "Darker than Black"
+    },
+    {
+      "id": 27,
+      "frase": "En la vida se tienen que tomar muchas decisiones; si esas decisiones son correctas o no, nadie lo sabe. Por eso las personas suelen elegir lo que ellos creen que es correcto.",
+      "personaje": "Benika Juzawa",
+      "anime": "Kurenai"
+    },
+    {
+      "id": 28,
+      "frase": "Es fácil perder la calma, más difícil es mantenerla.",
+      "personaje": "Yoh Asakura",
+      "anime": "Shaman King"
+    },
+    {
+      "id": 29,
+      "frase": "Desde que nacimos... Todos nosotros... ¡Somos libres! No importa que tan fuertes sean quienes nos lo impidan... ¡Lucha! ¡Si es por eso, no me importa morir! ¡No importa lo terrible que sea este mundo!... ¡No importa que tan cruel sea! ¡¡Lucha!!",
+      "personaje": "Eren Jagger",
+      "anime": "Shingeki no Kyojin"
+    },
+    {
+      "id": 30,
+      "frase": "La estupidez es mucho más fascinante que la inteligencia. La inteligencia tiene límites, la estupidez no.",
+      "personaje": "Killua",
+      "anime": "Hunter x Hunter"
+    },
+    {
+      "id": 31,
+      "frase": "Hay dos clases de personas, los que sonríen porque son felices y los que sonríen para hacer ver a los demás que son felices",
+      "personaje": "Sawada Tsunayoshi",
+      "anime": "Katekyo Hitman Reborn!"
+    },
+    {
+      "id": 32,
+      "frase": "Si este es el peor día de tu vida, entonces debes saber que mañana será mejor.",
+      "personaje": "Marco Ikusaba",
+      "anime": "Mirai Nikki"
+    },
+    {
+      "id": 33,
+      "frase": "Se que no puedo quererte de la forma en que tú quieres, pero yo te voy a querer de la mejor forma que sé.",
+      "personaje": "Inuyasha",
+      "anime": "Inuyasha"
+    },
+    {
+      "id": 34,
+      "frase": "Confía en tus impulsos, y ni siquiera tus propios pensamientos podrán traicionarte.",
+      "personaje": "Shuichi",
+      "anime": "Yu Yu Hakusho"
+    },
+    {
+      "id": 35,
+      "frase": "La vida no es buena ni mala, es simplemente maravillosa.",
+      "personaje": "TK",
+      "anime": "Digimon Adventure"
+    },
+    {
+      "id": 36,
+      "frase": "Recuerda, en nuestra vida nosotros no somos lectores, sino escritores.",
+      "personaje": "Gintoki",
+      "anime": "Gintama"
+    },
+    {
+      "id": 37,
+      "frase": "¿Qué es ser fuerte? Sospecho que ser fuerte no solo es una cuestión de poder, es fuerte la persona que encuentra un motivo por el que luchar, y se dedica en cuerpo y alma a ello.",
+      "personaje": "Sakura",
+      "anime": "Tsubasa Reservoir Chronicle"
+    },
+    {
+      "id": 38,
+      "frase": "Hay cosas que son bellas por el simple hecho de no poder poseerlas.",
+      "personaje": "Gilgamesh",
+      "anime": "Fate/Stay Night"
+    },
+    {
+      "id": 39,
+      "frase": "No importa lo mucho que me quieran los demás... no importa lo mucho que quieran a los demás... Si no lo encuentro correcto, no lo voy a hacer.",
+      "personaje": "Shana",
+      "anime": "Shakugan no Shana"
+    },
+    {
+      "id": 40,
+      "frase": "Yo quiero ser lo suficientemente fuerte para golpear al débil que soy hoy.",
+      "personaje": "Ganta",
+      "anime": "Deadman Wonderland"
+    },
+    {
+      "id": 41,
+      "frase": "El mundo no es tan malo como piensas.",
+      "personaje": "Celty",
+      "anime": "Durarara!!"
+    },
+    {
+      "id": 42,
+      "frase": "Rendirse es lo que destruye a la gente, cuando te niegas con todo tu corazón a rendirte entonces trasciendes tu humanidad, incluso ante la muerte nunca te rindas.",
+      "personaje": "Alucard",
+      "anime": "Hellsing"
+    },
+    {
+      "id": 43,
+      "frase": "Incluso si fueses a desviarte del camino correcto, nunca te desvíes de lo que ha decidido tu corazón.",
+      "personaje": "Rin Okumura",
+      "anime": "Ao no Exorcist"
+    },
+    {
+      "id": 44,
+      "frase": "Las heridas se curarán mientras sigamos con vida.",
+      "personaje": "Leenale",
+      "anime": "D. Gray-man"
+    },
+    {
+      "id": 45,
+      "frase": "Los sueños comienzan cuando se cree en ellos.",
+      "personaje": "Suzumiya Haruhi",
+      "anime": "Suzumiya Haruhi no Yuutsu"
+    },
+    {
+      "id": 46,
+      "frase": "El amor es como creer en los ovnis, nunca los has visto pero no pierdes la esperanza de verlos.",
+      "personaje": "Minorin",
+      "anime": "Toradora!"
+    },
+    {
+      "id": 47,
+      "frase": "Lo importante no es lo que los demás piensen de ti, sino cómo te sientes por ellos.",
+      "personaje": "Meliodas",
+      "anime": "Nanatsu no Taizai"
+    },
+    {
+      "id": 48,
+      "frase": "Los árboles gritan de dolor al morir, pero tú no puedes oírlos.",
+      "personaje": "San",
+      "anime": "Princesa Mononoke"
+    },
+    {
+      "id": 49,
+      "frase": "El tiempo no espera a nadie.",
+      "personaje": "Pizarra",
+      "anime": "La chica que saltaba a través del tiempo"
+    },
+    {
+      "id": 50,
+      "frase": "Las cuerdas representan el flujo en sí mismo. Las cuerdas se tuercen, se tambalean, se desenredan, se conectan de nuevo. Eso es el tiempo.",
+      "personaje": "Taki Tachinaba",
+      "anime": "Your name"
+    },
+    {
+        "id": 51,
+        "frase": "Llave que guardas los poderes de la oscuridad, revélame la naturaleza de tu verdadero ser, te lo ordeno por el rango que me ha sido otorgado. ¡Libérate!",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 52,
+        "frase": "El amor, para que sea auténtico, debe costarnos.",
+        "personaje": "Keitaro",
+        "anime": "Love Hina"
+      },
+      {
+        "id": 53,
+        "frase": "Déjame permanecer a tu lado.",
+        "personaje": "Kagome",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 54,
+        "frase": "Las palabras son como armas, si las usas de la manera equivocada, se convertirán en feas armas.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 55,
+        "frase": "Comienza a temblar Freezer, porque estoy a punto de ser el Super Saiyan que tanto has temido.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 56,
+        "frase": "¿El cielo se ve azul cuando mueres?",
+        "personaje": "Su",
+        "anime": "Love Hina"
+      },
+      {
+        "id": 57,
+        "frase": "A mi no me importaría si es de una fantasmas o es de un monstruo de quien me enamoro, me daría igual que fuera hermosa o que fuera la chica más fea del mundo, de todas formas me parecería hermosa.",
+        "personaje": "Ranma Saotome",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 58,
+        "frase": "La venganza sólo engendra venganza, y el sentimiento de victoria desaparece rápidamente. Como un copo de nieve en la palma de su mano.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 59,
+        "frase": "Cuando un humano tiene que cuidar a alguien, sus poderes incrementan. Tengo lo necesario para vencerte, ¡todo gracias a mi madre humana!",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 60,
+        "frase": "Buscar todo el tiempo motivos para sentirse desdichado debe ser lo peor que puede haber.",
+        "personaje": "Akane Tendo",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 61,
+        "frase": "Quizá podría esconder su cara con esa máscara, pero nunca podría esconder su corazón, que está lleno de odio y maldad.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 62,
+        "frase": "Yukito también me dijo que algún día encontraré a quien amar con todo mi corazón.",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 63,
+        "frase": "Ni realmente un demonio, ni realmente humano. No soy ninguno de ellos. Eso es todo. No tenía un lugar para mí, así que tuve que encontrar uno por mi cuenta.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 64,
+        "frase": "Sé puro, sé honesto, sé hermoso.",
+        "personaje": "Sailor Moon",
+        "anime": "Sailor Moon"
+      },
+      {
+        "id": 65,
+        "frase": "Puede que haya perdido todo, pero jamás dejaré de pelear por lo que creo.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 66,
+        "frase": "Luchamos para mantener la excelencia, pero al darnos cuenta llegamos a nuestros límites y dejamos entrar la maldad en nuestro corazón.",
+        "personaje": "Kyko",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 67,
+        "frase": "Cuando un alumno tiene un mal maestro enfrenta muchos problemas.",
+        "personaje": "Ranma Saotome",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 68,
+        "frase": "La gente como tú… es la razón de que la gente como yo necesite medicarse.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 69,
+        "frase": "Sabes, esta mañana cuando estábamos atrapados en el ascensor y me llamaste Sakura, me puse muy contenta. Me da la impresión de que nos volvimos buenos amigos, yo te quería preguntar si te puedo llamar Shaoran.",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 70,
+        "frase": "¿Es mi imaginación, o hay algo así como celos aquí?",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 71,
+        "frase": "No hay nada en este mundo que no se pueda responder con la lógica y el razonamiento.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 72,
+        "frase": "¡Desata tu poder, Gohan! ¡Sácalo todo! ¡Recuerda todo el dolor que él ha causado, a quienes ha lastimado, haz que ese sea tu poder!",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 73,
+        "frase": "Los humanos son más arrogantes y avaros que cualquier otra criatura.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 74,
+        "frase": "Es mejor pelear que rendirse y dejar que otros aprovechen.",
+        "personaje": "Mousse",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 75,
+        "frase": "La vida misma es algo atemorizante para todos los seres humanos. Ser fuertes no es fácil.",
+        "personaje": "Miroku",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 76,
+        "frase": "Mientras tú estés aquí sonriendo, no hay nada que pueda ponerme triste. Porque mi felicidad es verte sonriendo feliz.",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 77,
+        "frase": "La vida nos tira a todos alguna vez. Cada cual decide si quedarse en el suelo, o levantarte y enfrentarla.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 78,
+        "frase": "No puedes hacer que alguien te ame, pero puedes hacer que te respeten.",
+        "personaje": "Ranma Saotome",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 79,
+        "frase": "No pienses que siempre seré el que te defienda, alguna vez tendrás que defenderte tú mismo.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 80,
+        "frase": "Si todo fuera fácil, no tendría sentido vivir.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 81,
+        "frase": "El miedo es una gran motivación. Si no sientes miedo, nunca lo lograrás.",
+        "personaje": "Kagome",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 82,
+        "frase": "El amor no es algo que se pueda simplemente describir con palabras, es algo que se siente con el corazón.",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 83,
+        "frase": "No hay un solo camino para lograr algo, todos tenemos que encontrar el nuestro.",
+        "personaje": "Mousse",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 84,
+        "frase": "Las decisiones que tomamos nos definen, no importa lo que pase.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 85,
+        "frase": "Aunque el mundo cambie, yo siempre seré yo, no importa cuántas veces intente mejorarme.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 86,
+        "frase": "El valor no es la ausencia de miedo, sino hacer lo correcto incluso cuando sientes miedo.",
+        "personaje": "Sailor Moon",
+        "anime": "Sailor Moon"
+      },
+      {
+        "id": 87,
+        "frase": "Si te rindes ahora, nunca sabrás lo que podrías haber logrado.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 88,
+        "frase": "No importa lo que pase, seguiré luchando, no hay vuelta atrás.",
+        "personaje": "Kagome",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 89,
+        "frase": "Nada es más importante que la familia, pero si no te protejo, ¿qué soy?",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 90,
+        "frase": "Las personas cambian, pero algunas cosas siempre permanecen igual.",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 91,
+        "frase": "La lucha nunca termina, solo cambia de forma.",
+        "personaje": "Ranma Saotome",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 92,
+        "frase": "El dolor es inevitable, pero el sufrimiento es opcional.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 93,
+        "frase": "Cuando un ser querido está en peligro, no importa lo que cueste, tienes que salvarlo.",
+        "personaje": "Kagome",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 94,
+        "frase": "Si te atreves a enfrentar tu destino, entonces serás capaz de cambiar el mundo.",
+        "personaje": "Sailor Moon",
+        "anime": "Sailor Moon"
+      },
+      {
+        "id": 95,
+        "frase": "Es más fácil culpar a los demás que asumir nuestras propias responsabilidades.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 96,
+        "frase": "Una persona que nunca arriesga nada, nunca alcanzará nada.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 97,
+        "frase": "Las emociones pueden ser tanto un arma como una bendición.",
+        "personaje": "Ranma Saotome",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 98,
+        "frase": "No es el poder lo que te hace fuerte, es tu corazón.",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 99,
+        "frase": "Nunca olvides quién eres, incluso cuando el mundo trate de hacerte olvidar.",
+        "personaje": "Kagome",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 100,
+        "frase": "Los recuerdos son más importantes que lo que tenemos ahora, porque lo que tenemos puede desaparecer, pero los recuerdos permanecen.",
+        "personaje": "Sailor Moon",
+        "anime": "Sailor Moon"
+      },
+      {
+        "id": 101,
+        "frase": "Aunque la vida sea difícil, siempre tienes que seguir adelante.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 102,
+        "frase": "Lo importante no es ganar, sino pelear por lo que crees.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 103,
+        "frase": "Si el destino no está de tu lado, entonces haz que el destino se doble ante ti.",
+        "personaje": "Ranma Saotome",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 104,
+        "frase": "El amor no se trata de quién te completa, sino de quién te hace mejor.",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 105,
+        "frase": "Las promesas se hacen con el corazón, no con la boca.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 106,
+        "frase": "No soy un héroe, soy solo alguien que hace lo correcto.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 107,
+        "frase": "Puedes seguir luchando solo por el amor o la venganza. Pero al final, es lo que tú decides.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 108,
+        "frase": "La verdad siempre sale a la luz, no importa cuánto tiempo pase.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 109,
+        "frase": "Una mente tranquila es el primer paso para encontrar respuestas.",
+        "personaje": "Sailor Moon",
+        "anime": "Sailor Moon"
+      },
+      {
+        "id": 110,
+        "frase": "Cada error es solo una lección más que aprender.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 111,
+        "frase": "La mayor fuerza de una persona no está en su cuerpo, sino en su voluntad.",
+        "personaje": "Sakura",
+        "anime": "Sakura, cazadora de cartas"
+      },
+      {
+        "id": 112,
+        "frase": "No importa cuán grande sea el problema, siempre hay una forma de solucionarlo.",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 113,
+        "frase": "Las batallas son solo la mitad de la historia, la otra mitad está en lo que aprendes después.",
+        "personaje": "Ranma Saotome",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 114,
+        "frase": "El tiempo cambia a las personas, pero no cambia lo que llevamos dentro.",
+        "personaje": "Kagome",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 115,
+        "frase": "No me importa lo que digan los demás, si estoy convencido de algo, lo seguiré.",
+        "personaje": "Goku",
+        "anime": "Dragon Ball"
+      },
+      {
+        "id": 116,
+        "frase": "La verdadera fuerza de una persona radica en cómo se enfrenta a las adversidades.",
+        "personaje": "Mousse",
+        "anime": "Ranma ½"
+      },
+      {
+        "id": 117,
+        "frase": "Aunque todo se derrumbe, uno siempre puede levantarse de nuevo.",
+        "personaje": "Sailor Moon",
+        "anime": "Sailor Moon"
+      },
+      {
+        "id": 118,
+        "frase": "Solo cuando has tocado fondo, sabes lo que realmente te importa.",
+        "personaje": "Conan Edogawa",
+        "anime": "Detective Conan"
+      },
+      {
+        "id": 119,
+        "frase": "Si no eres capaz de proteger lo que amas, ¿qué clase de persona eres?",
+        "personaje": "Inuyasha",
+        "anime": "Inuyasha"
+      },
+      {
+        "id": 120,
+        "frase": "Para encontrar la paz, primero tienes que enfrentarte a tus miedos.",
+        "personaje": "Ranma Saotome",
+        "anime": "Ranma ½"
+      }
+  ]
+  
